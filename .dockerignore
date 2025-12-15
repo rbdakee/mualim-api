@@ -1,0 +1,10 @@
+venv
+__pycache__
+*.pyc
+.git
+.gitignore
+.cursor
+terminals
+*.log
+.DS_Store
+

@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+requests
+imageio-ffmpeg
+quran-transcript
+gspread
+google-auth
+python-telegram-bot
+

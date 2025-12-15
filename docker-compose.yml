@@ -1,0 +1,13 @@
+services:
+  mualim-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mualim-api
+    env_file:
+      - .env
+    ports:
+      - "5000:5000"
+    restart: unless-stopped
+
+
